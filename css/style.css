@@ -1,0 +1,11 @@
+.heading{
+font-weight: bold;
+font-size: xx-large;
+}
+.btn-login{
+    cursor: pointer;
+    
+}
+.odd{
+    background-color: aquamarine;
+}
