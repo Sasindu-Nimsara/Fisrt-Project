@@ -3,9 +3,23 @@ font-weight: bold;
 font-size: xx-large;
 }
 .btn-login{
+    position:relative;
+    left: 1150px;
+    top: -37px;
     cursor: pointer;
+    
+    
     
 }
 .odd{
     background-color: aquamarine;
 }
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/022/286/075/non_2x/blank-wavy-green-background-with-white-copy-space-vector.jpg);
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
